@@ -1,6 +1,6 @@
 {
   "name": "@cromarmot/is-number-one",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "isone is a low efficiency library to test if the given number is 1 implement with Unit function",
   "main": "index.js",
   "scripts": {
