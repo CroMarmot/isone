@@ -11,6 +11,9 @@ describe("isOne", function() {
 
   it("should return false if the number is not 1", function() {
     assert(!isOne(1 + 1));
+    assert(!isOne(1.5));
+    assert(!isOne(2.5));
+    assert(!isOne(3.5));
     assert(!isOne(0));
     assert(!isOne(-1));
     assert(!isOne(100000000));
