@@ -2,6 +2,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+[![CircleCI](https://circleci.com/gh/CroMarmot/isNumberOne/tree/master.svg?style=svg)](https://circleci.com/gh/CroMarmot/isNumberOne?branch=master)
+
 isone is a low efficiency library to test if the given number is 1 implement with Unit function.
 
 ![ins meme](https://www.instagram.com/p/Bvg9fI1ndcE/media/?size=m)
